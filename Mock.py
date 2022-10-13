@@ -3,7 +3,7 @@ Arpit Patel
 
 """
 from GitApi import get_repos, retrieve_commits
-from unittest.mock import mock
+from unittest import mock
 import unittest
 
 
